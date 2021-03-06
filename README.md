@@ -32,5 +32,6 @@ This sample app demostrates sum of 2 numbers.
 
 
 ***
- [Feel free to connect with me.](https://linktr.ee/dev.codes_)
+Feel free to connect with me.
+[Prakash A](https://linktr.ee/dev.codes_)
 
